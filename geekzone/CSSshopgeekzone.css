@@ -1,0 +1,44 @@
+.principale{
+	width:1000px;
+	height:1000px;
+}
+
+.boutique_albertville{
+	width: 320px;
+	height: 240px;
+	margin-top: 10px;
+	position: absolute;
+	float: left;
+
+}
+.texteimageboutiquealbertville{
+	float:center;
+}
+
+/*-----------------------------------*/
+
+.boutique_valence{
+	width:320px;
+	height: 240px;
+	float: right;
+	margin-top: 10px;
+}
+
+.texteimageboutiquevalence{
+	float:center;
+}
+
+/*-----------------------------------*/
+
+.boutique_grenoble{
+	width:320px;
+	height: 240px;
+	float: left;
+	margin-top: 370px;
+}
+
+.texteimageboutiquegrenoble{
+	float:center;
+}
+
+/*-----------------------------------*/
